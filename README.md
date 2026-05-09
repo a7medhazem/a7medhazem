@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=F5DEB3&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Ahmed+Hazem;Software+Engineer;Back-End+.NET+Developer;ASP.NET+Core+%7C+REST+APIs+%7C+EF+Core;Clean+Architecture+%7C+SOLID+Principles;Building+Clean+and+Reliable+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=F5DEB3&center=true&vCenter=true&width=800&lines=Hi+I'm+Ahmed+Hazem;Software+Engineer;Back-End+.NET+Developer;ASP.NET+Core+%7C+REST+APIs+%7C+EF+Core;Clean+Architecture+%7C+SOLID+Principles;Building+Clean+and+Reliable+Systems" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Ahmed%20Hazem-3E1F00?style=for-the-badge&logo=dotnet&logoColor=F5DEB3&labelColor=3E1F00&color=3E1F00" alt="Ahmed Hazem"/><img src="https://img.shields.io/badge/Software%20Engineer-5C2D00?style=for-the-badge&logoColor=F5DEB3&labelColor=5C2D00&color=5C2D00" alt="Software Engineer"/><img src="https://img.shields.io/badge/Backend%20.NET%20Developer-3E1F00?style=for-the-badge&logoColor=F5DEB3&labelColor=3E1F00&color=3E1F00" alt="Backend .NET Developer"/>
 
 </div>
 
@@ -8,13 +12,10 @@
 
 ## 🧠 About Me
 
-💻 Back-End .NET Developer passionate about building scalable and secure systems
-
-⚙️ Specialized in ASP.NET Core, REST APIs, and Entity Framework Core
-
-🧩 Strong understanding of Clean Architecture, SOLID Principles, LINQ, SQL Server, and software design patterns
-
-🚀 Focused on writing clean, maintainable, and production-ready backend solutions
+- Back-End **.NET Developer** focused on **scalable** and **secure** systems
+- Specialized in **ASP.NET Core**, **REST APIs**, and **Entity Framework Core**
+- Strong understanding of **Clean Architecture**, **SOLID Principles**, and backend design patterns
+- Focused on writing **clean**, **maintainable** backend solutions
 
 ---
 
@@ -50,9 +51,7 @@
 ## 📫 Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/ahmed-hazzem"><img src="https://img.shields.io/badge/LinkedIn-4B2500?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/a7medhazem"><img src="https://img.shields.io/badge/GitHub-2C1500?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="mailto:ahmed.hazzem.elsayedd@gmail.com"><img src="https://img.shields.io/badge/Email-5C2D00?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://linkedin.com/in/ahmed-hazzem"><img src="https://img.shields.io/badge/LinkedIn-4B2500?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a><a href="https://github.com/a7medhazem"><img src="https://img.shields.io/badge/GitHub-2C1500?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a><a href="mailto:ahmed.hazzem.elsayedd@gmail.com"><img src="https://img.shields.io/badge/Email-5C2D00?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
