@@ -12,10 +12,9 @@
 
 ## 🧠 About Me
 
-- Back-End **.NET Developer** focused on **scalable** and **secure** systems
-- Specialized in **ASP.NET Core**, **REST APIs**, and **Entity Framework Core**
-- Strong understanding of **Clean Architecture**, **SOLID Principles**, and backend design patterns
-- Focused on writing **clean**, **maintainable** backend solutions
+- Backend .NET Developer building REST APIs with ASP.NET Core, EF Core, and SQL Server
+- Worked on authentication systems, cloud storage integration, and AI service connections
+- Interested in Clean Architecture and writing code that holds up in production
 
 ---
 
